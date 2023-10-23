@@ -8,6 +8,6 @@ members:
 - David
 - George
 
-coach: Teddy
+coach1: Teddy
 
-from: add-coach
+from1: add-coach
